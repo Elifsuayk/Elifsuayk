@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=farukpie&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=elifsuayk&style=flat)
 ## 👋 Hello, I'm Elif Su Ayık
 
 🎓 I'm a Management Information Systems (MIS) student with a growing passion for software development.  
