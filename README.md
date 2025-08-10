@@ -2,7 +2,7 @@
 ## 👋 Hello, I'm Elif Su Ayık
 
 🎓 I'm a Management Information Systems (MIS) student with a growing passion for software development.
-💻 I enjoy learning new technologies and building web applications that solve real problems.
+💻 I enjoy learning new technologies and building web applications that solve real problems...
 
 
 
